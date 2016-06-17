@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>knowlegeInfo</key>
+	<array>
+		<dict>
+			<key>New item</key>
+			<string></string>
+			<key>New item - 2</key>
+			<string></string>
+			<key>New item - 3</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>New item</key>
+			<string></string>
+			<key>New item - 2</key>
+			<string></string>
+			<key>New item - 3</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>New item - 3</key>
+			<string></string>
+			<key>New item - 2</key>
+			<string></string>
+			<key>New item</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>New item - 3</key>
+			<string></string>
+			<key>New item - 2</key>
+			<string></string>
+			<key>New item</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>New item - 3</key>
+			<string></string>
+			<key>New item - 2</key>
+			<string></string>
+			<key>New item</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>New item - 3</key>
+			<string></string>
+			<key>New item - 2</key>
+			<string></string>
+			<key>New item</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>New item - 3</key>
+			<string></string>
+			<key>New item - 2</key>
+			<string></string>
+			<key>New item</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>New item</key>
+			<string></string>
+			<key>New item - 3</key>
+			<string></string>
+			<key>New item - 2</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>knowledge</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>新生儿爱蜷腿？如何判断罗圈腿</string>
+			<key>image</key>
+			<string>1.1.png</string>
+			<key>timer</key>
+			<string></string>
+			<key>readCount</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>初夏预防尿布疹 妈咪有妙招</string>
+			<key>image</key>
+			<string>2.1.png</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>产后小腹虚胖 腹直肌分离的错</string>
+			<key>image</key>
+			<string>3.1.png</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>宝宝爱啃指甲 当心变肠炎！</string>
+			<key>image</key>
+			<string>4.1.png</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>小小飘窗藏趣味 我和宝宝有约</string>
+			<key>image</key>
+			<string>5.1.png</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>长辈爱给宝贝零食 阻止讲方法</string>
+			<key>image</key>
+			<string>6.1.png</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>4类前卫玩具 越玩越机智</string>
+			<key>image</key>
+			<string>7.1.png</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>父母之道 积极关注孩子很重要</string>
+			<key>image</key>
+			<string>8.1.png</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,36 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#import <ASValueTrackingSlider.h>
+
+#import <Masonry.h>
+
+#import <CorePlot-CocoaTouch.h>
+
+#import "UUChart.h"
+#import "UUBar.h"
+
+#define SDK_VERSION  ([[UIDevice currentDevice].systemVersion floatValue])  //SDK版本
+#define IOS7_SDK	(SDK_VERSION >= 7.0f)// && SDK_VERSION < 8.0f)
+#define IOS8_SDK	(SDK_VERSION >= 8.0f)
+
+#define IOS9_SDK	(SDK_VERSION >= 9.0f)
+
+#define ScreenWidth [UIScreen mainScreen].bounds.size.width
+
+#define ScreenHeight [UIScreen mainScreen].bounds.size.height

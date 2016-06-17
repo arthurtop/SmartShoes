@@ -1,0 +1,51 @@
+PODS:
+  - ASValueTrackingSlider (0.11.2)
+  - CorePlot (2.1)
+  - CWStatusBarNotification (2.3.4)
+  - IQKeyboardManager (3.3.7)
+  - JSONKit (1.4)
+  - Masonry (1.0.0)
+  - MJExtension (3.0.10)
+  - MJRefresh (3.1.0)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - SSKeychain (1.4.0)
+  - YYKit (1.0.6):
+    - YYKit/no-arc (= 1.0.6)
+  - YYKit/no-arc (1.0.6)
+  - ZBarSDK (1.3.1)
+
+DEPENDENCIES:
+  - ASValueTrackingSlider
+  - CorePlot
+  - CWStatusBarNotification
+  - IQKeyboardManager
+  - JSONKit
+  - Masonry
+  - MJExtension
+  - MJRefresh
+  - ReactiveCocoa
+  - SSKeychain
+  - YYKit
+  - ZBarSDK
+
+SPEC CHECKSUMS:
+  ASValueTrackingSlider: 45c9f78252da60de01d8f2afe869aaf90dd978d9
+  CorePlot: ab9898c79b94999018e9634ab0aa4c21480c8552
+  CWStatusBarNotification: 3fec41edcb0ae3677d9febfcb9632d8bdf52294c
+  IQKeyboardManager: 249c3946acf61345c18b038eb50863fe2793e3a8
+  JSONKit: 5b69e804ea54d99293eed0fd2ce596c5703fefb0
+  Masonry: b529bb169217897b6354d4b56b1fada6d475b13d
+  MJExtension: d86aacb740c87519d20e3cca55b6fa4be6cc7548
+  MJRefresh: 743e6404967d1c2c688472ea3ecfde247d872db4
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  SSKeychain: c71293fa57216a40ab06c23f4085387583293de4
+  YYKit: a80c77ab7be226ebe539ef1495dfc25d5766d61e
+  ZBarSDK: 4c1b5daeb7d6cc67dc9355e690af0230a661f6ec
+
+COCOAPODS: 0.39.0
